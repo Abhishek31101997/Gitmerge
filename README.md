@@ -1,1 +1,3 @@
 # Gitmerge
+this is a repo for using Gitmerge...
+thank you.
